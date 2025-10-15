@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
-    color: #FFD700; /* Golden yellow text color */
+    color: #FFFFFF; /* White text color */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 p {
